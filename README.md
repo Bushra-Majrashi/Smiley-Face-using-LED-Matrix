@@ -20,4 +20,4 @@ This project gives an overview for understanding:
 
 In general, the project serves as a helpful beginning point for exploring the potential of Arduino and LED matrices, presenting options for creativity and exploration.
 
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/893ef997-9e1a-4a1f-b5d1-5f79611186d1">
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/752ab542-93c2-40cf-bfe7-e9d9e1265224">
